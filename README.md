@@ -2,7 +2,7 @@
 
 Installation
 ```
-pip install https://gitlab.com/OldminTeam/django-mypy-test-runner/-/archive/0.1.0/django-mypy-test-runner-0.1.0.zip
+pip install https://github.com/scream4ik/django-mypy-test-runner/archive/v0.1.0.zip
 ```
 
 Add to Django settings
